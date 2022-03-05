@@ -1,1 +1,0 @@
-# App to store groceries and other products and merchandising info for standard colombian shoppers
